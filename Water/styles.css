@@ -1,15 +1,15 @@
 body {
   margin: 0;
-  height: 356px;
-  width: 634px;
+  height: 100vh;
+  width: 100vw;
 }
 
 .background {
   position: absolute;
   top: 0;
   left: 0;
-  height: 356px;
-  width: 634px;
+  height: 100vh;
+  width: 100vw;
   background-image: url("sea.jpg");
   background-size: cover;
 }
